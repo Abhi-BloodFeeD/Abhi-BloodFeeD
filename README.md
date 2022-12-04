@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Abhi-BloodFeeD
+### 👋 Hi, I’m Abhinav Bhardwaj
 ### 👀 I’m interested in Programming
 ### 🌱 I’m currently learning kivy python
 ### 💞️ I’m looking to collaborate on new ideas 
