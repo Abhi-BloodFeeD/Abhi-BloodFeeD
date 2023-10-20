@@ -8,8 +8,12 @@
 
 
 #### 🔥Professional Positions held: 
+* 💞️ Youtube Channel - Learning Decoded (https://www.youtube.com/channel/UCT6FqUdI1yDYGhJeDnCnUIQ) - 
+* 📫Github - https://github.com/LearningDecoded
 * 🍏Innovation and Research engineer at TCS Delhi (July-2021 to Present)
 * 🍎Training Placement Coordinator at NIT Jamshedpur (April 2020-August 2021)
+
+
 
 #### 🔥Education:
 
