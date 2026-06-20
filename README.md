@@ -6,7 +6,6 @@
 * 🏢 Currently working as **System Engineer at Tata Consultancy Services (TCS), New Delhi**.
 * 🎓 Master's in Computer Science (AI, ML & Cybersecurity).
 * 🎓 B.Tech (Hons.) in Metallurgical & Materials Engineering from NIT Jamshedpur.
-* ☁️ AWS Certified Solutions Architect.
 * 📊 Passionate about Data Engineering, Distributed Systems, Software Development, AI/ML, and Cloud Computing.
 * 🌱 Currently learning **Advanced DSA, Graph Algorithms, Dynamic Programming, System Design, and Palantir Foundry Development**.
 * 💡 Always interested in building scalable software products and data-driven solutions.
