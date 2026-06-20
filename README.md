@@ -208,5 +208,5 @@
 
 * GitHub: https://github.com/Abhi-BloodFeeD
 * LinkedIn: https://linkedin.com/in/abhinav-bhardwaj
-* YouTube: AIM Civil Services
+* YouTube: Learning Decoded - https://www.youtube.com/channel/UCT6FqUdI1yDYGhJeDnCnUIQ
 * Email: [abhinavmetta@gmail.com](mailto:abhinavmetta@gmail.com)
